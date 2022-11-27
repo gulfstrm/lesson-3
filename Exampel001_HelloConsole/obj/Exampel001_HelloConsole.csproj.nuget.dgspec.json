@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
+    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Exampel001_HelloConsole\\Exampel001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
+    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Exampel001_HelloConsole\\Exampel001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
-        "projectName": "Examples001_HelloConsole",
-        "projectPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Exampel001_HelloConsole\\Exampel001_HelloConsole.csproj",
+        "projectName": "Exampel001_HelloConsole",
+        "projectPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Exampel001_HelloConsole\\Exampel001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\gulfs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Examples001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\Exampel001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gulfs\\AppData\\Roaming\\NuGet\\NuGet.Config"
